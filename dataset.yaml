@@ -1,0 +1,9 @@
+path: /Users/jakubczyszewski/PycharmProjects/obrazy_zpo/Dane_do_przetwarzania
+train: images/train
+val: images/val
+test: images/test
+
+names:
+    0: background
+    1: bicycle_crossing
+    2: pedestrian_crossing
