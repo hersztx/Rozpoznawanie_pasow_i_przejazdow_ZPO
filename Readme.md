@@ -48,17 +48,17 @@ Projekt koncentruje się na wykorzystaniu YOLOv8 do segmentacji semantycznej prz
   
 
 - **Obraz 2:** Przejście dla pieszych i przejazd rowerowy, dobre oświetlenie.
-  - ![Obraz 2](obrazy_zpo/Przykładowe_wyniki_przetwarzania/Obraz_2.jpg)
+  - ![Obraz 2](https://github.com/hersztx/Rozpoznawanie_pasow_i_przejazdow_ZPO/blob/d7d8b6a32300338c8152cb669bf1e682a01d7108/Przyk%C5%82adowe_wyniki_przetwarzania/Obraz_2.png)
   - **Adnotacje:** "Przejazd rowerowy" – segmentacja częściowo poprawna.
   
 
 - **Obraz 3:** Przejście dla pieszych na czerwonym spowalniaczu dla samochodów.
-  - ![Obraz 3](obrazy_zpo/Przykładowe_wyniki_przetwarzania/Obraz_3.jpg)
+  - ![Obraz 3](https://github.com/hersztx/Rozpoznawanie_pasow_i_przejazdow_ZPO/blob/d7d8b6a32300338c8152cb669bf1e682a01d7108/Przyk%C5%82adowe_wyniki_przetwarzania/Obraz_3.png)
   - **Adnotacje:** Segmentacja częściowo poprawna.
   
 
 - **Obraz 4:** Widok na dach budynku, który ma białe paski.
-  - ![Obraz 4](obrazy_zpo/Przykładowe_wyniki_przetwarzania/Obraz_4.jpg)
+  - ![Obraz 4](https://github.com/hersztx/Rozpoznawanie_pasow_i_przejazdow_ZPO/blob/d7d8b6a32300338c8152cb669bf1e682a01d7108/Przyk%C5%82adowe_wyniki_przetwarzania/Obraz_4.png)
   - **Adnotacje:** Segmentacja niepoprawna.
 
 
