@@ -76,7 +76,7 @@ Projekt koncentruje się na wykorzystaniu YOLOv8 do segmentacji semantycznej prz
 ## Wytrenowany Model w Formacie ONNX
 
 ### Szczegóły Modelu:
-- Model został wytrenowany zapomocą sieci YOLO v8 i został wyeksportowany do formatu ONNX (dostępny w repozytorium).
+- Model został wytrenowany zapomocą sieci YOLO v8 i został wyeksportowany do formatu ONNX (dostępny w repozytorium: `https://github.com/hersztx/Rozpoznawanie_pasow_i_przejazdow_ZPO/blob/afb031ba5cd50a89861317ed8482aa1a802ce6a4/runs/segment/train11/weights/best.onnx`).
 - Zawiera metadane wymagane do integracji z Deepness (rozdzielczość przestrzenna: 10 px/cm).
 
 ---
