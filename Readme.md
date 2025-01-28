@@ -43,7 +43,7 @@ Projekt koncentruje się na wykorzystaniu YOLOv8 do segmentacji semantycznej prz
 ## Przykładowe Obrazy ze Zbioru Danych
 
 - **Obraz 1:** Przejścia dla pieszych i przejazdy rowerowe w centrum miasta, dobrze oświetlone.
-  - ![Obraz 1](obrazy_zpo/Przykładowe_wyniki_przetwarzania/Obraz_1.jpg)
+  - ![Obraz 1](https://github.com/hersztx/Rozpoznawanie_pasow_i_przejazdow_ZPO/blob/813722d7c8779eb6e0ee8ed427b9ce744d11b3d5/Przyk%C5%82adowe_wyniki_przetwarzania/Obraz_1.png)
   - **Adnotacje:** Segmentacja poprawna.
   
 
